@@ -21,7 +21,7 @@ https://talk-a-tive.herokuapp.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  git clone https://github.com/Developer-Swapnil/Wooble-chat-app.git
 ```
 
 Go to the project directory
