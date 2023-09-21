@@ -13,7 +13,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 ## Demo
 
-https://wooble-a479.onrender.com/
+https://wooble-v2.onrender.com
 
 ![](https://github.com/Developer-Swapnil/Wooble-chat-app/blob/a3bd0c55defcc0b9ab580641d91b9ed25715f4f4/frontend/src/components/ScreenShots/Wooble-4.png)
 
