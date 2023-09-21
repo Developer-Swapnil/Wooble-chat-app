@@ -15,7 +15,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 https://wooble-a479.onrender.com/
 
-![](https://github.com/Developer-Swapnil/Wooble-chat-app/blob/a3bd0c55defcc0b9ab580641d91b9ed25715f4f4/frontend/src/components/ScreenShots/Wooble-1.png)
+![](https://github.com/Developer-Swapnil/Wooble-chat-app/blob/a3bd0c55defcc0b9ab580641d91b9ed25715f4f4/frontend/src/components/ScreenShots/Wooble-4.png)
 
 ## Run Locally
 
@@ -60,36 +60,36 @@ Start the Client
 
 ### Authenticaton
 
-![](./frontend/components/ScreenShots/Wooble-1.png)
-![](./frontend/components/ScreenShots/Wooble-2.png)
+![](https://github.com/Developer-Swapnil/Wooble-chat-app/blob/a3bd0c55defcc0b9ab580641d91b9ed25715f4f4/frontend/src/components/ScreenShots/Wooble-1.png)
+![](https://github.com/Developer-Swapnil/Wooble-chat-app/blob/a3bd0c55defcc0b9ab580641d91b9ed25715f4f4/frontend/src/components/ScreenShots/Wooble-2.png)
 
 ### Real Time Chatting with Typing indicators
 
-![](./frontend/components/ScreenShots/Wooble-3.png)
+![](https://github.com/Developer-Swapnil/Wooble-chat-app/blob/a3bd0c55defcc0b9ab580641d91b9ed25715f4f4/frontend/src/components/ScreenShots/Wooble-3.png)
 
 ### One to One chat
 
-![](./frontend/components/ScreenShots/Wooble-4.png)
+![](https://github.com/Developer-Swapnil/Wooble-chat-app/blob/a3bd0c55defcc0b9ab580641d91b9ed25715f4f4/frontend/src/components/ScreenShots/Wooble-4.png)
 
 ### Search Users
 
-![](./frontend/components/ScreenShots/Wooble-5.png)
+![](https://github.com/Developer-Swapnil/Wooble-chat-app/blob/a3bd0c55defcc0b9ab580641d91b9ed25715f4f4/frontend/src/components/ScreenShots/Wooble-5.png)
 
 ### Create Group Chats
 
-![](./frontend/components/ScreenShots/Wooble-6.png)
+![](https://github.com/Developer-Swapnil/Wooble-chat-app/blob/a3bd0c55defcc0b9ab580641d91b9ed25715f4f4/frontend/src/components/ScreenShots/Wooble-6.png)
 
 ### Notifications
 
-![](./frontend/components/ScreenShots/Wooble-7.png)
+![](https://github.com/Developer-Swapnil/Wooble-chat-app/blob/a3bd0c55defcc0b9ab580641d91b9ed25715f4f4/frontend/src/components/ScreenShots/Wooble-7.png)
 
 ### Add or Remove users from group
 
-![](./frontend/components/ScreenShots/Wooble-8.png)
+![](https://github.com/Developer-Swapnil/Wooble-chat-app/blob/a3bd0c55defcc0b9ab580641d91b9ed25715f4f4/frontend/src/components/ScreenShots/Wooble-8.png)
 
 ### View Other user Profile
 
-![](./frontend/components/ScreenShots/Wooble-9.png)
+![](https://github.com/Developer-Swapnil/Wooble-chat-app/blob/a3bd0c55defcc0b9ab580641d91b9ed25715f4f4/frontend/src/components/ScreenShots/Wooble-9.png)
 
 ## Made By
 
